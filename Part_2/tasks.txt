@@ -1,0 +1,21 @@
+Task: Register Users with TaskManager.py
+Assigned to: admin
+Task description:	Use taskManager.py to add the usernames and passwords for all team members that will be using this program.
+Date asssigned:		10 April 2020
+Due Date:		20 April 2020
+Task Complete:		No
+
+Task:			Assign initial tasks
+Assigned to: 		admin
+Task description:	Use TaskManager.py to assign each team member with appropriate tasks
+Date asssigned:		10 April 2020
+Due Date:		25 April 2020
+Task Complete:		No
+
+Task:	clean
+Assigned to:	woo
+Description of task:	mop all floors
+Date assigned:	2020-04-10
+Due date:	25 april
+
+Completed?:	No
